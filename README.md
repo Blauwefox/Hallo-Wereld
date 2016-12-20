@@ -15,3 +15,5 @@ As of 01Feb2016: Started  2 more courses on Coursera ("Data Scientist's Toolbox"
 
 As of 06Feb2016: nearly completed (3 more videos, and one coursework to submit) Coursera's Arduino and C++ programming course. 
 Will be staring the second part "Arduino Interfacing Course" by the same University and lecturer. Considering to purchase the certificate. 
+
+Hiatus of 9 months, due to unexpected death in the family, and having to undergo surgery at end of February with long recovery time. In november 2016, started "The complete SQL bootcamp course" on Udemy with good progress. Will continue work on arduino and Pi projects in due course. New repository for SQL created on 19 DEC 2016 with codes written for the course
